@@ -1,5 +1,13 @@
 # PunditDsl
 
+[![Code Climate](https://codeclimate.com/github/FinalCAD/csv2hash.png)](https://codeclimate.com/github/joel/pundit_dsl)
+
+[![Dependency Status](https://gemnasium.com/joel/pundit_dsl.png)](https://gemnasium.com/joel/pundit_dsl)
+
+[![Build Status](https://travis-ci.org/joel/pundit_dsl.png?branch=master)](https://travis-ci.org/joel/pundit_dsl) (Travis CI)
+
+[![Coverage Status](https://coveralls.io/repos/joel/pundit_dsl/badge.png)](https://coveralls.io/r/joel/pundit_dsl)
+
 [Pundit](https://rubygems.org/search?utf8=%E2%9C%93&query=pundit) is an awesome gem for writing right and is more tiny and pragmatic than [Cancan](https://rubygems.org/gems/cancan). BTW Cancan is on park way and even if [Cancancan](https://rubygems.org/gems/cancancan) can be make Cancan DSL work on Rails 4 i think Pundit is the better way. Therefore have migrate some project from Cancan to Pundit and sometime is painfull writing to many PORO classes... It's for why i introduce here a little abstraction to make writing rights with pundit easier.
 
 ## Installation
